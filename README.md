@@ -1,6 +1,6 @@
 # Market System
 
-This is a simple market system for fivem. A project I made to try Vue JS CLI. 
+This is a simple market system for FiveM. A project I made to try Vue JS CLI with FiveM. 
 
 ## Preview
 
